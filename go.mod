@@ -1,4 +1,4 @@
-module streamingv1
+module github.com/Hateisu/KMP-StreamingApp-Proto
 
 go 1.21.5
 
